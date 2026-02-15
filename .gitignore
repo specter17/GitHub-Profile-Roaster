@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+bin/
+lib/
+lib64/
+*.egg-info/
+.eggs/
+DIST-INFO/
+
+# Virtual environment
+venv/
+
+# Test and coverage reports
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# Logs
+*.log
+
+# Miscellaneous
+*.pot
+*.mo
+*.egg
+*.egg-info
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints/
